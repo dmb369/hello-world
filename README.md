@@ -1,5 +1,5 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+This repository is for practicing the GitHub Flow.\n
 An aspiring financial enthusiast learning the essentials of GitHub
 
 By,
